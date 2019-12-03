@@ -50,7 +50,7 @@
     },
     "repoURL": {
       "type": "string",
-      "defaultValue": "https://github.com/alihan98ersoy/Master.git",
+      "defaultValue": "https://github.com/ahmetgnc/cloud.git",
       "metadata": {
         "description": "The URL for the GitHub repository that contains the project to deploy."
       }
